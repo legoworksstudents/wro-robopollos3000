@@ -1,0 +1,28 @@
+{
+    "name": "WRO ROBOPOLLOS3000",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-nezha2": "github:elecfreaks/pxt-nezha2#v1.2.1",
+        "pxt-PlanetX": "github:elecfreaks/pxt-planetx#v1.6.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "pyprj"
+}
